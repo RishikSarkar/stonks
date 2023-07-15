@@ -1,16 +1,24 @@
-# stonks
+# Stonks
 
-A new Flutter project.
+Stonks is a Stock Market Simulation Game made using Flutter.
+
+---
+
+## Features
+
+The current features of the application include:
+- A stock trading screen with a constantly updating trend line
+- Real time data from over 50 different stock options (updated daily)
+- The ability to buy and sell stocks with virtual currency
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started, go to the root directory of the project in the terminal and run the application using the `flutter run` command. You can find additional devices using  `flutter devices`, or connect to devices with a USB cable using `flutter run -d all`. _\(Make sure that Flutter has been set up properly before attempting to run the project\)_
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributors
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- @RishikSarkar
